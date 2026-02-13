@@ -1,5 +1,8 @@
 # 💫 About Me:
-- currently working on ISO 9001 QMS system build with MERN Full Stack<br>- used to make a project using machine learning: Recommendation system using collaborative filtering<br>- used to make a full stack mobile app from designing with figma, frontend using react native, backend using laravel, and deploy to AWS server<br>- experienced in website development, html, js, css, bootstrap, php<br>- have a lot of projects using python environment<br>- currently enrolled in AI+ Developer certification for Trainer<br>- currently working as IT Trainer/Consultant<br>
+Computer Science graduate with strong hands-on experience in web and mobile application development, RESTful 
+APIs, and machine learning projects. Experienced with React Native, Laravel, and full-stack development through 
+internships, apprenticeship programs, and real-world systems. Currently working as a Trainer/Consultant while seeking 
+opportunities to grow as a software developer in a professional environment.
 
 
 ## 🌐 Socials:
